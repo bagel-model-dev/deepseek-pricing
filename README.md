@@ -66,3 +66,5 @@ Peak hours, as documented by the independent [deepseek.ai pricing page](https://
 ## Try Synexa for the generation side
 
 Token pricing covers text. If the same product turns those tokens into images, video or audio, that half of the bill is a different shape entirely. [Try Synexa - a single hosted REST endpoint and Python SDK for FLUX, video and audio models, billed per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=deepseek-pricing&utm_content=readme-top&utm_term=tier-r). Keep DeepSeek for the language work and let one endpoint handle the media.
+
+_Last reviewed: 2026-09-22_
